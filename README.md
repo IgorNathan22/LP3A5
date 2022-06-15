@@ -6,3 +6,20 @@ Diferente das linguagens de programação modernas, que são compiladas para có
 # LP3A5
 
 Atividades da matéria de LP3A5 do 5º Semestre de TADS do IFSP
+
+## Streams
+Para a atividade de Stream foi explorado como criar, iterar sobre as listas e utiliza-lás utilizando métodos vistos na api do java 8.
+
+[Código](https://github.com/IgorNathan22/LP3A5/tree/main/Stream)
+
+[Documentação da Interface Stream do Java 8](https://docs.oracle.com/javase/8/docs/api/java/util/stream/Stream.html)
+
+## Tratamento de Exceptions
+Para a atividade de Exceptions foi realizado um exemplo teste de um caso de busca por um atributo de um objeto não existente, assim acontecendo um NullPointerException, em seguida é possível observar o tratamento do erro para mostrar uma mensagem mais agradável ao usuário.
+
+[Código](https://github.com/IgorNathan22/LP3A5/tree/main/exceptions)
+
+## Metaprogramação - Reflection em Java
+Para a atividade de metaprogramação foram seguidos alguns requisitos e desenvolvido um programa que consegue obter o objeto, alterar visibilidade de atributos e gerar novas instancias.
+
+[Código](https://github.com/IgorNathan22/LP3A5/tree/main/Metaprogram)
