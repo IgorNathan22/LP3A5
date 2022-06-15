@@ -9,6 +9,13 @@ Diferente das linguagens de programação modernas, que são compiladas para có
 # LP3A5
 
 Atividades da matéria de LP3A5 do 5º Semestre de TADS do IFSP
+  
+## Produtor-Consumidor
+Resolução de problema clássico utilizando threads do Java, é possível perceber a utilização das palavras reservadas syncronized.
+
+[Código](https://github.com/IgorNathan22/LP3A5/tree/main/produtor-consumidor)
+ 
+[Referência](https://github.com/alvesoaj/ProdConsu)
 
 ## Streams
 Para a atividade de Stream foi explorado como criar, iterar sobre as listas e utiliza-lás utilizando métodos vistos na api do java 8.
