@@ -33,3 +33,8 @@ Para a atividade de Exceptions foi realizado um exemplo teste de um caso de busc
 Para a atividade de metaprogramação foram seguidos alguns requisitos e desenvolvido um programa que consegue obter o objeto, alterar visibilidade de atributos e gerar novas instancias.
 
 [Código](https://github.com/IgorNathan22/LP3A5/tree/main/Metaprogram)
+  
+## Refactor - Clean Code - Dojo Guilded Rose
+Para a atividade de refatoramento, foi realizado um processo de refactoring seguindo as recomendações do livro clean code, afim de melhorar o entendimento do código.
+  
+[Código](https://github.com/IgorNathan22/LP3A5/tree/main/gilded-rose)
